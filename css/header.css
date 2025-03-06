@@ -39,13 +39,14 @@ aside /* Estilo das "Informações Adicionais (Aba "Contato") */ {
   margin-inline: 25px;
 }
 #habilidades {
+  /* Estilo da Tabela de Habilidades (Aba "Habilidades") */
   margin-inline: 35px;
   margin-top: 35px;
 }
 #habilidades table {
   width: 75%;
   border-collapse: collapse;
-  margin: 0 auto; /* Center the table */
+  margin: 0 auto;
 }
 #habilidades th {
   text-align: center;
